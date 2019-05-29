@@ -1,0 +1,12 @@
+.container {
+    text-align: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.submitButton {
+    margin-top: 33px;
+}

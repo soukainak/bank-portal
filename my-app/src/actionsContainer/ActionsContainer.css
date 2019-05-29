@@ -1,0 +1,12 @@
+.actionsContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 27px 98px;
+}
+
+.divider {
+    height: 36vh;
+    border: 0.5px solid black;
+    margin-top: 22px;
+}

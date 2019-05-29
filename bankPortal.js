@@ -1,1 +1,0 @@
-const bankPortal = "bank portal app";
